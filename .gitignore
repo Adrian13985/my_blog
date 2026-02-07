@@ -1,0 +1,12 @@
+# Hugo 默认生成文件夹
+/public
+/resources/_gen
+
+# 临时文件
+hugo_stats.json
+
+# 系统缓存文件 (可选，防止垃圾文件)
+.DS_Store
+Thumbs.db
+*~
+/public
