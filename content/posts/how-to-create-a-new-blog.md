@@ -11,7 +11,7 @@ summary: "本文详述了在 Linux 环境下基于 Hugo 框架的标准内容交
 在 Linux 开发环境下，从内容创建到生产环境上线主要包含三个核心阶段。
 ### 1. 内容初始化
 使用 Hugo CLI 工具生成标准化的 Markdown 模板，以确保 Front Matter（元数据）格式的统一。
-```bash
+bash
 # 建议：文件名使用英文命名（Kebab-case），以生成语义化的 URL 路径
 hugo new posts/your-article-slug.md
 2. 本地开发与预览
